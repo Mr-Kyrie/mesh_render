@@ -1,0 +1,2 @@
+/media/l410/DA18EBFA09C1B27D/code/lw/stanford-shapenet-renderer/blender_img
+D:/code/lw/stanford-shapenet-renderer/blender_img
